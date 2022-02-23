@@ -1,2 +1,62 @@
-# github-cv
-My Online CV
+## Sherwin Panganiban
+
+A dev who is always passionate to learn more! I've recently graduated from Makers Academy, and am looking for a full-time software engineering role!
+
+## Projects
+
+| Name                         | Description                             | Tech/tools                                        |
+| ---------------------------- | --------------------------------------- | ------------------------------------------------- |
+| [mappin!](https://github.com/sherwingp/world-map-game)                      | An online multiplayer geoguessing game! | Next.js, React, Socket.io, Mapbox, Jest, Cypress  |
+| [Gem Junkies](https://github.com/sherwingp/acebook-ruby-junkies)                  | A Facebook clone                        | Ruby, Rails, Postgresql, Rspec                    |
+| [Makersbnb](https://github.com/sherwingp/makersbnb)                    | An Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec               |
+| [Chitter](https://github.com/sherwingp/chitter-challenge)                      | A Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
+
+## Education
+
+#### Makers Academy (November 2021 to February 2022)
+- Frequently used pairing in order to problemsolve effeciently, requiring teamwork and communication.
+- Worked on projects in an Agile team, using Sprints and Retros to meet tight deadlines
+- Independently learned Ruby, Rails, JavaScript, React to create projects
+- Learned how to TDD using RSpec, Jest, and Cypress to write higher quality code
+
+#### King's College London (2017 - 2020)
+
+- LLB Law
+- Upper Second Class Honours (2:1)
+
+## Work Experience
+
+**Chelsea Harbour Club** (July 2017 to October 2017)  
+Lifeguard
+- Worked in a cohesive and responsible unit to create a safe environment
+- Trained to deal with critical and life-threatening situations safely and efficiently
+
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
