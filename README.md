@@ -6,10 +6,11 @@ A dev who is always passionate to learn more! I've recently graduated from Maker
 
 | Name                         | Description                             | Tech/tools                                        |
 | ---------------------------- | --------------------------------------- | ------------------------------------------------- |
-| [mappin!](https://github.com/sherwingp/world-map-game)                      | An online multiplayer geoguessing game! | Next.js, React, Socket.io, Mapbox, Jest, Cypress  |
-| [Gem Junkies](https://github.com/sherwingp/acebook-ruby-junkies)                  | A Facebook clone                        | Ruby, Rails, Postgresql, Rspec                    |
-| [Makersbnb](https://github.com/sherwingp/makersbnb)                    | An Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec               |
-| [Chitter](https://github.com/sherwingp/chitter-challenge)                      | A Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
+| [mappin!](https://github.com/sherwingp/world-map-game)                      | Online multiplayer geoguessing game! | Next.js, React, Socket.io, Mapbox, Jest, Cypress  |
+| [Air Paint](https://github.com/sherwingp/air-paint)                      | Computer vision powered air painting                      | Python, OpenCV, Tkinter       
+| [Gem Junkies](https://github.com/sherwingp/acebook-ruby-junkies)                  | Facebook clone with Reddit's Gold system                     | Ruby, Rails, Postgresql, Rspec                    |
+| [Makersbnb](https://github.com/sherwingp/makersbnb)                    | Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec               |
+| [Chitter](https://github.com/sherwingp/chitter-challenge)                      | Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
 
 ## Education
 
