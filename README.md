@@ -15,7 +15,7 @@ A dev who is always passionate to learn more! I've recently graduated from Maker
 ## Education
 
 #### Makers Academy (November 2021 to February 2022)
-- Frequently used pairing in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used pairing to problem solve efficiently, requiring teamwork and communication.
 - Worked on projects in an Agile team, using Sprints and Retros to meet tight deadlines
 - Independently learned Ruby, Rails, JavaScript, React to create projects
 - Learned how to TDD using RSpec, Jest, and Cypress to write higher quality code
