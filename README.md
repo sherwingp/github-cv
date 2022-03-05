@@ -10,6 +10,7 @@ A dev who is always passionate to learn more! I've recently graduated from Maker
 | [Air Paint](https://github.com/sherwingp/air-paint)                      | Paint in the air using computer vision                      | Python, Mediapipe, OpenCV, Tkinter       
 | [Gem Junkies](https://github.com/sherwingp/acebook-ruby-junkies)                  | Facebook clone with Reddit's Gold system                     | Ruby, Rails, Postgresql, Rspec, OAuth                    |
 | [Makersbnb](https://github.com/sherwingp/makersbnb)                    | Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec               |
+| [Viral LinkedIn Post Generator](https://github.com/sherwingp/linkedin-post-generator)                      | A LinkedIn Post generator, powered by a neural network trained on the posts of top LinkedIn influencers                        | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
 | [Chitter](https://github.com/sherwingp/chitter-challenge)                      | Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
 
 ## Education
