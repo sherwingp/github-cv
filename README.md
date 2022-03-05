@@ -23,8 +23,10 @@ A junior developer who is always passionate to learn more! I've recently graduat
 
 #### King's College London (2017 - 2020)
 
-- LLB Law
-- Upper Second Class Honours (2:1)
+- LLB Law, Upper Second Class Honours (2:1)
+- Varsity eSports (Dota 2): 1st Place Division 2 Spring 2020, 8th Division 1 Winter 2020
+- Korean Hallyu Vocal Team: Inter-Uni Nationals Team
+
 
 ## Work Experience
 
@@ -37,7 +39,7 @@ Lifeguard
 
 - Great collaborator - I always try to help those around me and learn from others in turn. With my legal background, I am able to use my communication skills to digest technical concepts and explain them in a simple way. My biggest joy from my final bootcamp project at Makers was explaining concepts such as event-based two-way communication with Socket.io to my team members, and seeing them implement it themselves!
 - Self-learner - I am passionate about learning new concepts and technologies, and am never afraid of getting stuck in with a new language and diving into documentation and Google searches. This is reflected by not only the range of tech used in my projects, but from my hobbies as I also enjoy learning new things such as dance and guitar.
-- Diligence - From practicing new hobbies to programming, I have the self-discipline and diligence to keep progressing while still paying attention to detail. This can be seen through my frequent Github commit history with which I still maintain detailed READMEs, and my frequent use of Test-Driven Development for several projects.
+- Diligence - From practicing new hobbies to programming, I have the self-discipline and diligence to keep progressing while still paying attention to detail. This can be seen in my hobbies such as in gaming, I worked hard to achieve my goal of being a Top 3000 Player in Dota 2. This translates to my programming, for example, through my frequent Github commit history with which I still maintain detailed READMEs, and my frequent use of Test-Driven Development for several projects.  
 
 ## Technical Competencies
 -	Languages and Web Frameworks: Javascript, React, Python, Ruby, Rails, HTML, CSS)
