@@ -4,14 +4,16 @@ A junior developer who is always passionate to learn more! I've recently graduat
 
 ## Projects
 
+[See them visually](https://sherwin-panganiban.netlify.app/)
+
 | Name                         | Description                             | Tech/tools                                        |
 | ---------------------------- | --------------------------------------- | ------------------------------------------------- |
-| [mappin!](https://github.com/sherwingp/world-map-game)                      | Online multiplayer geoguessing game! | Next.js, React, Socket.io, Mapbox, Jest, Cypress  |
+| [mappin!](https://github.com/sherwingp/world-map-game)                      | Online multiplayer geoguessing game! | Next.js, React, Socket.io, Mapbox, Jest, Cypress |
 | [Air Paint](https://github.com/sherwingp/air-paint)                      | Paint in the air using computer vision                      | Python, Mediapipe, OpenCV, Tkinter       
 | [Gem Junkies](https://github.com/sherwingp/acebook-ruby-junkies)                  | A Facebook clone remixed with novel features like Reddit-style post gilding, complete with real Facebook login                     | Ruby, Rails, Postgresql, Rspec, OAuth                    |
-| [Makersbnb](https://github.com/sherwingp/makersbnb)                    | Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec               |
-| [Viral LinkedIn Post Generator](https://github.com/sherwingp/linkedin-post-generator)                      | A LinkedIn Post generator, powered by a neural network trained on the posts of top LinkedIn influencers                        | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
-| [Chitter](https://github.com/sherwingp/chitter-challenge)                      | Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec                  |
+| [Makersbnb](https://github.com/sherwingp/makersbnb)                    | Airbnb clone                         | Ruby, Sinatra, Capybara, PostgreSQL, Rspec |
+| [Viral LinkedIn Post Generator](https://github.com/sherwingp/linkedin-post-generator)                      | A LinkedIn Post generator, powered by a neural network trained on the posts of top LinkedIn influencers                        | Python, Tableau, Tensorflow                  |
+| [Chitter](https://github.com/sherwingp/chitter-challenge)                      | Twitter clone                         | Ruby, Sinatra, Capybara, Postgresql, Rspec | | [97PARADE](https://97parade.com/) | A music blog quoted by the BBC | WordPress CMS, HTML, CSS, JS |
 
 ## Education
 
@@ -28,7 +30,11 @@ A junior developer who is always passionate to learn more! I've recently graduat
 - Korean Hallyu Vocal Team: Inter-Uni Nationals Team
 
 
-## Work Experience
+## Experience
+
+**Ealing Advice Service** (July 2019 to October 2019)\
+Volunteer Adviser 
+- Advised on social welfare law matters including consumer, contract, debt, employment, housing
 
 **Chelsea Harbour Club** (July 2017 to October 2017)  
 Lifeguard
@@ -37,9 +43,9 @@ Lifeguard
 
 ## Skills
 
-- Great collaborator - I always try to help those around me and learn from others in turn. With my legal background, I am able to use my communication skills to digest technical concepts and explain them in a simple way. My biggest joy from my final bootcamp project at Makers was explaining concepts such as event-based two-way communication with Socket.io to my team members, and seeing them implement it themselves!
-- Self-learner - I am passionate about learning new concepts and technologies, and am never afraid of getting stuck in with a new language and diving into documentation and Google searches. This is reflected by not only the range of tech used in my projects, but from my hobbies as I also enjoy learning new things such as dance and guitar.
-- Diligence - From practicing new hobbies to programming, I have the self-discipline and diligence to keep progressing while still paying attention to detail. This can be seen in my hobbies such as in gaming, I worked hard to achieve my goal of being a Top 3000 Player in Dota 2. This translates to my programming, for example, through my frequent Github commit history with which I still maintain detailed READMEs, and my frequent use of Test-Driven Development for several projects.  
+- Great collaborator - I always try to help those around me and learn from others in turn. With my legal background, I am able to use my communication skills to digest technical concepts and explain them in a simple way. One great experience from my final bootcamp project at Makers was explaining concepts such as event-based two-way communication with Socket.io to my team members, and seeing them implement it themselves.
+- Self-learner - I am passionate about learning new concepts and technologies, and am never afraid of getting stuck in with a new language and diving into documentation and Google searches. This is reflected in the range of tech used in my projects - if I get an interest in something, not knowing the tech is no obstacle to me. 
+- Diligence - From practicing new hobbies to programming, I have the self-discipline and diligence to keep progressing while still paying attention to detail. In my programming, for example, I always try to adhere to principles such as SRP and encapsulation, and commit to GitHub frequently, and use Test-Driven Development to better design code.  I try to maintain this level of diligence in all aspects of life, and outside of programming I am a top 3000 player in the competitive game Dota 2, and love fitness and practising dance and guitar.
 
 ## Technical Competencies
 -	Languages and Web Frameworks: Javascript, React, Python, Ruby, Rails, HTML, CSS)
